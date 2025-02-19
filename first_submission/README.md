@@ -1,0 +1,2 @@
+Within this folder, the file Buoy_cleaning.qmd contains the cleaned data for the buoys, as well as datasets that combine multiple buoys over multiple years and a different approach to reading the data. At the end of the file, there is a graph relating two of the variables.
+The file Data Visualization.qmd has my work from discussion as well as the box plots, violin plots, facets, and legends in ggplot.
