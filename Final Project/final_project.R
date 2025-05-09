@@ -3,6 +3,7 @@ library(shinydashboard)
 library(leaflet)
 library(tidyverse)
 library(base64enc)
+library(rsconnect)
 
 ui <- dashboardPage(
   dashboardHeader(title = "Aquidneck Island"),
