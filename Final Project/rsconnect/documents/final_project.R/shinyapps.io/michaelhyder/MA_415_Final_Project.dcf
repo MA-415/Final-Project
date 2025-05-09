@@ -1,0 +1,12 @@
+name: MA_415_Final_Project
+title: MA_415_Final_Project
+username: michaelhyder
+account: michaelhyder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14722878
+bundleId: 10258208
+url: https://michaelhyder.shinyapps.io/MA_415_Final_Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
